@@ -1,0 +1,3 @@
+zuul.routes.myconfig.id=myconfig
+zuul.routes.myconfig.location=/**
+zuul.routes.myconfig.serviceId=config-center
